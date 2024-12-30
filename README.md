@@ -1,8 +1,13 @@
-<h1>Visualizing Data with Quicksight</h1>
+<h1>Running Docker containers on Elastic Beanstalk</h1>
 
 <h2>Description</h2>
- Amazon QuickSight is a cloud-based business intelligence (BI) service by AWS  that allows users to create interactive dashboards and visualizations. Itʼs useful
- for analyzing data from various sources, gaining insights quickly.
+  In this project i used Docker to create containers based on containers images  and set up my own container image.
+ <b>Containers</b>
+  Containers are tools for packaging application in a way that's easy for developers to run. They are useful because it helps developers/engineers working in a team together to share their work in a more 
+   efficient way.
+ A container image is a template/blue print for creating containers.Containers
+ spawned/created from the same container image behave in the same way
+ which help developers in team have a unified experience
  
 <h1>How I used Amazon QuickSight in this project</h1> 
  <b>for analyzing data from Netflix Dataset, gaining insights quickly and a graphical visualisation of the service
