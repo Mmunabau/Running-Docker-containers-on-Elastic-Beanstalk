@@ -32,38 +32,38 @@
 
 <p align="center">
 DOWNLOAD DOCKER DESKTOP ON YOUR PC: <br/>
- <img src="images/qs1.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+ <img src="images/bs1.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
  
 <br />
 Open command pompt on Mac or Windows then run "docker --version" to get the latest docker installed :  <br/>
-<img src="images/qs3.png" height="80%" width="80%" alt="TF-IDF Steps"/>
+<img src="images/bs2.png" height="80%" width="80%" alt="TF-IDF Steps"/>
 <br />
 
 <br />
 On your command prompt run "-d -p 80:80 nginx to install nginx : The command I ran to start a new container was' 'docker run -d -p 80:80 nginx' which means we running the container in the background(-d) matching port 80 in our host computer to the container's port 80(-p 80:80) <br/>
-<img src="images/qs4.png" height="80%" width="80%" alt="cont Steps"/>
+<img src="images/bs3.png" height="80%" width="80%" alt="cont Steps"/>
 <br />
 
 <br />
  Nginx is a web server /a software that helps with serving web content.which means it helps with distributing traffic to your aplication across the instances running your application <br/>
-<img src="images/qs6.png" height="80%" width="80%" alt="cont Steps"/>
+<img src="images/bs4.png" height="80%" width="80%" alt="cont Steps"/>
 <br />
 
 <br />
 Creat a custom image: There was an error when I ran my custom image because i tried to map the port 80 with the new container's port 80,but a running container was already
 using port 80. I resolved this by'stopping the running container so that i can start a new one <br/>
-<img src="images/qs7.png" height="80%" width="80%" alt="cont Steps"/>
+<img src="images/bs5.png" height="80%" width="80%" alt="cont Steps"/>
 <br />
 
 <br />
 Navigate to Elastic Beanstalk configure your Elastic Beanstalk environment upload and Deploy your Docker :  <br/>
-<img src="images/qs8.png" height="80%" width="80%" alt="cont Steps"/>
+<img src="images/bs6.png" height="80%" width="80%" alt="cont Steps"/>
 <br />
 
 <br />
 Copy URL and paste your Elastic Beanstalk Application.  <br/>
-<img src="images/qs9.png" height="80%" width="80%" alt="cont Steps"/>
+<img src="images/bs7.png" height="80%" width="80%" alt="cont Steps"/>
 <br />
 
 
