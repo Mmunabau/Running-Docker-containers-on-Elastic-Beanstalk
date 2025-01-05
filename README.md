@@ -51,26 +51,21 @@ On your command prompt run "-d -p 80:80 nginx to install nginx : The command I r
 <br />
 
 <br />
-Creat a custom image:  <br/>
+Creat a custom image: There was an error when I ran my custom image because i tried to map the port 80 with the new container's port 80,but a running container was already
+using port 80. I resolved this by'stopping the running container so that i can start a new one <br/>
 <img src="images/qs7.png" height="80%" width="80%" alt="cont Steps"/>
 <br />
 
 <br />
- To creat visualization on Quicksight,you'll have to drag relevant fields into the
- Quicksight dashboard's Auto Graph space:  <br/>
+Navigate to Elastic Beanstalk configure your Elastic Beanstalk environment upload and Deploy your Docker :  <br/>
 <img src="images/qs8.png" height="80%" width="80%" alt="cont Steps"/>
 <br />
 
 <br />
-Using filters:Filters are useful for specifying the exact subset of data that you are wanting to analyze-effectively excluding any irrelevant data  <br/>
+Copy URL and paste your Elastic Beanstalk Application.  <br/>
 <img src="images/qs9.png" height="80%" width="80%" alt="cont Steps"/>
 <br />
 
-<br />
- As a finishing Touch, i' edited the titles of my graph so that the purpose of each
- chart is clear to the reader  <br/>
-<img src="images/qs12.png" height="80%" width="80%" alt="cont Steps"/>
-<br />
 
 <br />
 </p>
